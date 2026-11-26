@@ -2,4 +2,4 @@
 
 [打开控制台](https://timiil.github.io/workforce-console/)
 
-这里发布 Workforce Console 的静态构建。公开页面提供独立演示和本地控制台入口。演示数据仅在当前页面内存中生效，刷新即清空。
+此仓库发布 Workforce Console 的静态页面。用户通过 GitHub 登录、绑定私有 Vault，再管理工作站和受控仓库。Pages 工作流为每次部署写入公共仓库 commit，控制台「关于」菜单显示该版本。
