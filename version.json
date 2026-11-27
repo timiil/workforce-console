@@ -1,9 +1,9 @@
 {
   "version": "0.1.0",
   "files": {
-    "index.html": "5cc2d39ad73b4e25908b4ca7c635de6ae225eddbf96be04b47a59e3e2747d19e",
+    "index.html": "2d9ec9eef5ed26280801cd3a7bc9db50708e74a2c093d5e52680d9a35b91fff2",
     "assets/index-B-E5ULgV.css": "54d28adb90355c482ce7919732950a4191a84405440dbe16b6c34759d6ef3e9b",
-    "assets/index-Bf5Ixpfv.js": "e9bdcf5bac11c0d0765eb0ddad7896e64eab1229d1578b5840e8e32e39f7397c",
-    "assets/libsodium-wrappers-CpXSMgcR.js": "d5ed9edd100a81a1c29fb349920f338761bd0d295e5058065c414f7e3ef9435b"
+    "assets/index-Dv8NcFAJ.js": "7f8aa803ec68f5e11008bad09c551d0626a4bca50d608e7e89acc93662b11d64",
+    "assets/libsodium-wrappers-C0eCVsPS.js": "eb21991fdd06fcea6f738468e8684111fb42b8598ca4b5d581e0f245f0786804"
   }
 }
